@@ -11,9 +11,9 @@
     <itunes:email>kulturawpudelku@gmail.com</itunes:email>
     <itunes:category text="Popculture" />
     <image>
-      <url>https://kulturawpudelku.github.io/website/img/logo.jpg</url>
+      <url>https://kulturawpudelku.github.io/website/web/img/logo.jpg</url>
       <title>Kultura w pudełku</title>
-      <link>https://kulturawpudelku.github.io/website/</link>
+      <link>https://kulturawpudelku.github.io/website/web/index.html</link>
     </image>
     <itunes:owner>
       <itunes:name>Kultura w pudełku</itunes:name>
@@ -21,12 +21,12 @@
     </itunes:owner>
     <copyright>Kultura w pudełku 2021</copyright>
     <description>Kultura w pudełku - podcasty o popkulturze</description>
-    <googleplay:image href="https://kulturawpudelku.github.io/website/img/logo.jpg" />
+    <googleplay:image href="https://kulturawpudelku.github.io/website/web/img/logo.jpg" />
     <language>pl</language>
     <itunes:explicit>clean</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://kulturawpudelku.github.io/website/feed.xml</link>
-    <itunes:image href="https://kulturawpudelku.github.io/website/img/logo.jpg" />
+    <link>https://kulturawpudelku.github.io/website/web/feed.xml</link>
+    <itunes:image href="https://kulturawpudelku.github.io/website/web/img/logo.jpg" />
 
 
     <item>
@@ -34,7 +34,7 @@
       <itunes:author>Kultura w pudełku</itunes:author>
       <title>Newscast#1 - Rick i Morty, Lucyfer, Zafo i inne</title>
       <pubDate>Mon, 3 May 2021 21:00:00</pubDate>
-      <enclosure url="https://kulturawpudelku.github.io/website/audio/Newscast1.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://kulturawpudelku.github.io/website/web/audio/Newscast1.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>34:51</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Kultura w pudełku Podcast</title>
+    <googleplay:author>Kultura w pudełku</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Bydgoszcz, Polska</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Kultura w pudełku</author>
+    <itunes:author>Kultura w pudełku</itunes:author>
+    <itunes:email>kulturawpudelku@gmail.com</itunes:email>
+    <itunes:category text="Popculture" />
+    <image>
+      <url>https://kulturawpudelku.github.io/website/img/logo.jpg</url>
+      <title>Kultura w pudełku Podcast</title>
+      <link>https://kulturawpudelku.github.io/website/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Kultura w pudełku</itunes:name>
+      <itunes:email>kulturawpudelku@gmail.com</itunes:email>
+    </itunes:owner>
+    <copyright>Kultura w pudełku 2021</copyright>
+    <description>Kultura w pudełku - podcasty o popkulturze</description>
+    <googleplay:image href="https://kulturawpudelku.github.io/website/img/logo.jpg" />
+    <language>pl</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://kulturawpudelku.github.io/website/feed.xml</link>
+    <itunes:image href="https://kulturawpudelku.github.io/website/img/logo.jpg" />
+
+
+    <item>
+      <author>Kultura w pudełku</author>
+      <itunes:author>Kultura w pudełku</itunes:author>
+      <title>Newscast#1 - Rick i Morty, Lucyfer, Zafo i inne</title>
+      <pubDate>Mon, 3 May 2021 21:00:00</pubDate>
+      <enclosure url="https://kulturawpudelku.github.io/website/audio/Newscast1.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>34:51</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+
+
+https://github.com/Kulturawpudelku
+
+https://www.youtube.com/channel/UCDe2DvAC_OhSmpZi_KiqnUg
+
+https://www.instagram.com/kulturawpudelku
+http://www.zkotempodkocem.pl/​​​​​​​​​​
+https://insygnie-nieskonczonosci.blogspot.com
+https://www.instagram.com/zkotempodkocem
+https://www.instagram.com/magiakultury​
+
+
+        </description>
+    </item>
+  </channel>
+</rss>
